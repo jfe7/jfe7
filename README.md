@@ -1,5 +1,7 @@
-👋 Hey, I’m James!
+👋 Hey, I’m Jim!
 
 👨‍💼 I’m currently a Cloud Solution Architect at Microsoft.
 
-👀 I’m interested in AI, Automation, Azure, DevOps & Learning New Technologies!
+🚀 7+ Years in the DevOps/Platform space.
+
+👀 I’m interested in AI, Automation, Cloud, DevOps & Learning New Technologies!
